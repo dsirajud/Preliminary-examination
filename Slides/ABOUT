@@ -1,4 +1,4 @@
-Contents:
+CONTENTS:
 
     Prelim_slides.tex -- beamer TeX file that is compiled through the makeflow pdflatex (tex > pdf)
 
