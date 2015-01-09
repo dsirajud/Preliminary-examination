@@ -1,3 +1,7 @@
+% The slides achieve a University of Wisconsin - Madison theme, which was created by minimal modifications
+% to the beamer theme: https://github.com/quxiaofeng/PolyU_beamer_theme , so minimal that the original titling
+% of theme/style elements and subfolders is kept as "polyu" rather than making any effort to retitle as UW-Madison
+
 CONTENTS:
 
     Prelim_slides.tex -- beamer TeX file that is compiled through the makeflow pdflatex (tex > pdf)
