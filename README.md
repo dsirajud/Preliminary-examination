@@ -1,2 +1,2 @@
 # Preliminary-examination
-Materials involved in my preliminary examination (ECE Ph.D.) on Dec. 12, 2014
+Materials for my preliminary examination (ECE Ph.D.) on Dec. 12, 2014
